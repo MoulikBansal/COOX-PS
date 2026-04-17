@@ -118,7 +118,3 @@ A relatively small number of recurring non-serviceable areas were driving a sign
 - Integration with internal logistics systems  
 
 ---
-
-## Author
-
-Built as a geospatial analytics and business intelligence project to convert historical refund data into measurable operational improvements.
