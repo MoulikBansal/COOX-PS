@@ -1,69 +1,69 @@
 ﻿Cluster ID,Hotspot Label,Num Bookings,Centroid Lat,Centroid Lon,Pin Code,Geo Suburb,Geo City,Cities in Cluster,Sample Areas
-0,Outskirts Hotspot #1,3,12.903223,77.38506,562130,Chunchanakuppe,Bangalore South,Bengaluru,"byalalu village chunchanaguppe post | Bengaluru, Karnataka 562130 | Kolur Nanjundapura"
-1,Outskirts Hotspot #2,2,16.969166,78.520137,509358,Kadthal,Kadthal mandal,Hyderabad,Outside Hyderabad | Kadthal
-2,Outskirts Hotspot #3,3,18.979685,73.947376,410503,Manchar,Ambegaon,Pune,"Aawasari Phata Manchar, Taluka Ambegaon, Maharashtra"
-3,Outskirts Hotspot #4,3,13.349379,77.627302,561205,Chogondahalli,Doddaballapura taluk,Bengaluru,"Melekote cross, Tubugere Hobli , Doddaballapur main road"
-4,Outskirts Hotspot #5,45,13.157549,77.609934,562157,Betta Halasuru,Yelahanka taluku,Bengaluru,"Devanahalli | Huvinayakanahalli | Sree Sai Layout, | Tatva villa by aurea stays | Poojanahalli Rd, Kannamangala"
-5,Outskirts Hotspot #6,14,17.449004,78.237157,N/A,Mirja Guda,Ramachandrapuram mandal,Hyderabad,"Lehari Resorts, road Bhanur | Velmala | Mokila, bulkapur | Green Village, Mokila | Kollur"
-6,Outskirts Hotspot #7,51,18.637267,73.709567,654321,Jaambe,Mulshi Subdistrict,Pune,"Ravet | Near Kasarsai Dam, Chandkhed 410506 | Talegaon Dabhade | Shinde Vasti ,Ravet, Pune ,Maharashtra  , | Beside lane Mittal dairy"
-7,Outskirts Hotspot #8,8,17.289955,78.239919,N/A,Kanakamamidi,Moinabad mandal,Hyderabad,Kanakamamidi | Moinabad | 501504 | Mentioned above | Near charan resorts
-8,Outskirts Hotspot #9,2,13.025115,77.029308,572120,Chikkamalalavadi,Kunigal taluk,Bengaluru,Kunigal - 572130
-9,Outskirts Hotspot #10,2,23.165824,72.689899,382355,GIFT City,Gandhinagar Taluka,Ahmedabad,"Gift city | Ratanpur, Gujarat 382355"
-10,Outskirts Hotspot #11,2,12.959913,77.312794,562120,Varadenahalli,Magadi taluku,Bengaluru,"Magadi Main Rd Thippagondanahalli, | Lingadheeranahalli"
-11,Outskirts Hotspot #12,6,22.937539,72.417639,382210,,Sanand Taluka,Ahmedabad,"Moti devti | Moraiya, Gujarat 382213 | Moraiya Road Moti Devti, Village, Ahmedabad | ABHISHREE ORCHARD"
-12,Outskirts Hotspot #13,6,19.194643,73.190892,421506,Additional Industrial Area,Ulhasnagar Subdistrict,"Thane, Ulhasnagar, Mumbai","Near green City Club house Ambernath East | Hira Marriage Hall | Near to Gurukul International School opposite to sai heritage, katrap, Badlapur east | Jai baba dham Netaji | Badlapur east"
-13,Outskirts Hotspot #14,3,17.25875,78.358925,501218,Vellanki Agros,Hyderabad,Hyderabad,"Padhmavathi, Indra Reddy Colony, Shamshabad, | dream avenue gagan pahad | Shamshabad"
-14,Outskirts Hotspot #15,2,13.302257,77.533171,561203,Dargajogihalli,Doddaballapura taluk,Bengaluru,"IVRI road, Yelahanka | Muthsandra, Doddaballapura"
-15,Outskirts Hotspot #16,3,12.965375,79.952395,602105,Pattunool Chataram,Chennai,Chennai,Mani street sarathi nagar west saidapet | Bengaluru - Chennai Hwy Nenmeli Sriperumbudur
-16,Outskirts Hotspot #17,2,28.290597,76.951513,122105,Bissar Akbarpur,Taoru,Gurugram,"Farm No 50 , Near Best Western Country Club | Tarudhan Valley Golf Resort Gurgaon, Haryana 122105"
-17,Outskirts Hotspot #18,4,12.861099,77.608128,560076,Yelenahalli,Bengaluru,Bengaluru,Devanahalli | Begur koppa road | Bengaluru 560076
-18,Outskirts Hotspot #19,4,12.69618,79.986591,603001,Gokulapuram,Chengalpattu,Chennai,"Gokulapuram, Chengalpattu | Mahindra World City, Chengalpattu"
-19,Outskirts Hotspot #20,7,18.939311,73.044449,N/A,,Uran Subdistrict,"Navi Mumbai, Mumbai","Standard Weigh bridge | Jasai, Navi Mumbai | Manghar, Panvel | JNPT Rd, Navi Mumbai, Maharashtra 410206 | Sector - 23, Ulwe, Navi Mumbai"
-20,Outskirts Hotspot #21,8,18.986819,73.121553,497586,New Panvel,Panvel,"Navi Mumbai, Mumbai","New Panvel | navi mumbai | Gurudev Heights, 200, Sector 21, Kamothe, Panvel, Navi Mumbai, | Usarli Khurd, Vichumbe, Navi Mumbai | Near St Joseph school"
-21,Outskirts Hotspot #22,4,12.795395,80.024881,603209,Maraimalai Nagar Industrial Area,Chengalpattu,Chennai,Maraimalai Nagar
-22,Outskirts Hotspot #23,2,22.897341,75.97955,N/A,Shipra,Sanwer Tahsil,Indore,"VRG, Kshipra, Pirkaradiya"
-23,Outskirts Hotspot #24,6,17.5439,78.369692,500090,Bachupally mandal,Hyderabad,Hyderabad,"Near orr | Dhivya Shree Shakthi Apartment Mayuri nagar miyapur | Akshaya developers, Bowrampet,500043 | Bachupally crossroads ,Mallampetroad | Mallampet, 500090"
-24,Outskirts Hotspot #25,14,13.059585,77.758495,560049,Huskuru,Bangalore East,Bengaluru,"Hoskote | Budigere cross | Bommanahalli, Bidarahalli Hobli | Doddabanahalli | Hoskote, Bengaluru, Karnataka 562114"
-25,Outskirts Hotspot #26,31,12.833348,77.723363,560099,Narayanaghatta,Anekal,Bengaluru,"Marsur, Naganaikanahalli, Karnataka 562166 | Attibele-Sarjapur road, Bidderguppe, Manenahalli | Sarjapur Main Road | Marsur | Nambiar Bellezea"
-26,Outskirts Hotspot #27,8,30.63419,76.85447,160104,,Dera Bassi Tahsil,"Chandigarh, Sahibzada Ajit Singh Nagar, Zirakpur","Motia citi Zirakpur Punjab | Guru Nanak Colony Rd, Guru Nanak Colony | Sanauli Zirakpur Punjab | Maya garden ph3 vip road | Uptown Skylla"
-27,Outskirts Hotspot #28,50,12.922496,80.155688,601302,Gowriwakkam,Tambaram,Chennai,"Perunthalaivar kamarajar nagar ,2nd cross street, perungudi | city abdul kalam road pudhupakkaam | Mantri Synergy, Near Hindustan Engineering college,Tamil Nadu, 603103 | Kanathur Reddykuppam, Tamil Nadu 603112 | Mambakkam - Medavakkam Main Rd,"
-28,Outskirts Hotspot #29,2,17.577553,78.601677,500078,Upparapalle,Hyderabad,Hyderabad,Shamirpet
-29,Outskirts Hotspot #30,2,18.420481,73.767436,415115,Gorhe,Haveli Subdistrict,Pune,"Milit | Girinagar, Gorhe Bk., Maharashtra 411025"
-30,Outskirts Hotspot #31,2,26.789669,75.470984,303122,Mahlan,Phagi Tehsil,Jaipur,"Near Mahalan, Ajmer Road, Jaipur, Rajasthan - 303007 | Mahlan, Rajasthan"
-31,Outskirts Hotspot #32,2,17.677578,78.473415,500101,Dabilpur,Medchal mandal,Hyderabad,lingapur | Yellampet.
-32,Outskirts Hotspot #33,2,20.940838,72.932123,396400,,Navsari,Surat,"Navsari | Vijalpor, Navsari 396450"
-33,Outskirts Hotspot #34,13,12.864335,77.49012,560062,Agara,Bangalore South,Bengaluru,"Kengeri | 3rd Cross Rd, Kaggalipura, | Agara, Bengaluru, 562109 | Anchepalya, Kengeri | 179, Kannikanagar, Nanda Gokula Layout, Bengaluru, Ramasandra, Karnataka 560060"
-34,Outskirts Hotspot #35,4,26.90495,75.6014,N/A,,Jaipur Tehsil,Jaipur,Street 1 | Sinwar road | Khasra no.90 nand gav bad ke balaji road chakramsir choraha sirsi road near polofactory polo club
-35,Outskirts Hotspot #36,12,18.581517,74.008389,412207,Wagholi,Haveli Subdistrict,Pune,"Lohegaon Road, Wagholi | Lonikand, Near Wagheshwar Temple | behind pasalkar lawns, Kesnand | Samarth colony | Kharadi"
-36,Outskirts Hotspot #37,7,18.620481,73.911674,411047,,Haveli Subdistrict,Pune,"Near DY Patil College | Ajmer Ali Vihar, Opposite Tata Communication Dighi | Charholi Budruk, Maharashtra 412105 | Charholi budruk | Atlantic, pride world city"
-37,Outskirts Hotspot #38,2,22.965715,76.054725,455001,,Dewas,Indore,"Rai Marg, Alankar Square, Old Town, Gomti Nagar, Dewas, Madhya Pradesh 455001"
-38,Outskirts Hotspot #39,2,22.383977,88.414395,700145,Joynagar,Baruipur,Kolkata,"Halder more, Baruipur Amtala road, Baruipur | Rajpur Sonarpur, Malancha Mahi Nagar, Rajpur Sonarpur"
-39,Outskirts Hotspot #40,2,17.286968,78.596138,501511,Injapur,Hyderabad,Hyderabad,"Turkayamjal | Nagarjuna colony, Hasthinapuram"
-40,Outskirts Hotspot #41,5,13.083192,77.406887,562123,Nelamangala,Nelamangala taluk,Bengaluru,"Baba nagar | Arasinakunte | Nelamangala | Jyothi Nagar, Bengaluru, Nagarur"
-41,Outskirts Hotspot #42,8,21.160659,72.652016,394270,,Chorasi Taluka,Surat,Pal Tp 16
-42,Outskirts Hotspot #43,7,18.418312,73.926575,N/A,Bhiwari,Purandhar,Pune,"411048 | Kanifnath via Bopgav Vasti Rd, Bopgaon, | Bhivri, Maharashtra 412301 | Wadachi Wadi, Undri | Bhivari village, Tal:, Purandar"
-43,Outskirts Hotspot #44,2,28.249968,77.159852,N/A,,Gurgaon,Gurugram,"Karanki, Sohna | Ranika Singhola, Sohna"
-44,Outskirts Hotspot #45,2,23.099958,72.748237,382355,,Dehgam Taluka,Ahmedabad,"Zak, gamdu, 382330"
-45,Outskirts Hotspot #46,4,26.77965,75.898849,302025,Goner,Sanganer Tehsil,Jaipur,"Near goner jagatpura | Jagatpura Jaipur | Jagatpura, Jaipur, pincode-302017 | Dua Farm House, Tuwariyan Ki Dhani, Vatika, Jaichandpura"
-46,Outskirts Hotspot #47,3,22.691163,88.309848,712310,Dankuni,Chanditala - II,Kolkata,"Panchghara, Dankuni, West Bengal 712306 | Raghunathpur, Makhla, Basipota, West Bengal 712245 | Baranagar"
-47,Outskirts Hotspot #48,3,18.606351,74.087656,412216,,Haveli Subdistrict,Pune,"Burkegaon, Maharashtra"
-48,Outskirts Hotspot #49,3,12.704655,77.697858,562106,Anekal,Anekal,Bengaluru,"Weaver Colony Anekal, Karnataka 562106"
-49,Outskirts Hotspot #50,2,22.771869,88.554221,743248,Haatkhola,Barasat - I,Kolkata,"Bira, Joypul, West Bengal | Narshipur, Jirat, West Bengal"
-50,Outskirts Hotspot #51,23,23.128725,72.495369,380060,Lapkaman,Daskroi Taluka,Ahmedabad,"Near Dada Bhagwan Trimandir, Adalaj, Dist. Gandhinagar, 382421 | Dantali | Opposite The Aayansh, Nr. Narmada Canal, Adalaj | Supercity bhadaj | Near Vaishnodevi Circle"
-51,Outskirts Hotspot #52,2,17.331605,78.297794,501404,Himayath Nagar,Moinabad mandal,Hyderabad,Moinabad
-52,Outskirts Hotspot #53,3,26.993225,75.580429,303706,Kalwar,Jaipur Tehsil,Jaipur,"Kalwar | Govind Vatika, Kalwar"
-53,Outskirts Hotspot #54,3,15.561425,73.771543,403516,Saligao,Bardez,Panaji,"1221/2 & 3, Gauvaddi, Anjuna, Goa 403509 | calangute mahpusa road"
-54,Outskirts Hotspot #55,3,23.021038,72.447606,380058,Ghuma,Sanand Taluka,Ahmedabad,"Shaligram prime apartment South bopal | Manipur Saptak, Ghuma, | SHIVALIK SHARDA PARKVIEW-2, NEAR MEHAR HOMES-4, CLUB O7 ROAD, SHELA"
-55,Outskirts Hotspot #56,3,17.529899,78.529861,500087,Risala Bazaar,Alwal mandal,Hyderabad,Railway Employees Colony Phase 1 | Hyderabad | Yapral
-56,Outskirts Hotspot #57,3,30.823367,76.723298,140901,Rani Majra,Kharar Tahsil,Chandigarh,DLF Hyde park | Mullanpur | MLA Flats Mullanpur Garibdass
-57,Outskirts Hotspot #58,2,17.094438,78.253938,509216,Chandrayanguda,Nandigama mandal,Hyderabad,Kottur | Near MSN Pharma
-58,Outskirts Hotspot #59,3,17.441731,78.67339,501301,Rajeev Gruha Kalpa,Hyderabad,Hyderabad,Madhava reddy bridge | Annojiguda
-59,Outskirts Hotspot #60,3,17.545796,78.286716,502319,Patelguda,Ameenpur mandal,Hyderabad,"Symphony Park Homes, Patancheruvu | Kistareddypet, Beeramguda"
-60,Outskirts Hotspot #61,6,22.594561,88.528874,700135,,New Town,Kolkata,"Lake Town, Kolkata, West Bengal | nearby shikharpur, Greentech City, Vedic Village, | Uniworld city new town action area 3 | Vedic Village, Bazetaraf | Baghu, Newtown, Sikharpur"
-61,Outskirts Hotspot #62,4,26.98032,81.020502,N/A,,Bakshi Ka Talab,Lucknow,"Palaka Uttar Pradesh | Saihara, Uttar Pradesh 225301"
-62,Outskirts Hotspot #63,2,13.028678,77.447858,562162,Kammasandra,Bangalore North,Bengaluru,"Bettahalli | Sanjeevani Layout, Laaksmipura madanayakanna Halli, Nelamangala"
-63,Outskirts Hotspot #64,2,12.932711,77.738527,560066,Varthur,Bengaluru,Bengaluru,"Varthur Road, Gunjur Village, Bangalore 560087"
-64,Outskirts Hotspot #65,2,28.843026,77.180478,110036,Alipur Tehsil,Delhi,Delhi,Near Lavanya farm
-65,Outskirts Hotspot #66,2,26.728734,81.039979,N/A,,Mohanlalganj,Lucknow,"Lucknow, Mohari Khurd"
-66,Outskirts Hotspot #67,2,27.028574,75.763707,N/A,,Jaipur Municipal Corporation,Jaipur,Nindar Jaipur
-67,Outskirts Hotspot #68,3,22.704643,75.964504,452016,,Bhicholi Hapsi Tahsil,Indore,"Bicholi Mardana, Ambamoliya-Bicholi Hapsi Rd"
+0,Outskirts Hotspot #1,3,12.903223,77.38506,N/A,,Bengaluru,Bengaluru,"byalalu village chunchanaguppe post | Bengaluru, Karnataka 562130 | Kolur Nanjundapura"
+1,Outskirts Hotspot #2,2,16.969166,78.520137,N/A,,Hyderabad,Hyderabad,Outside Hyderabad | Kadthal
+2,Outskirts Hotspot #3,3,18.979685,73.947376,N/A,,Pune,Pune,"Aawasari Phata Manchar, Taluka Ambegaon, Maharashtra"
+3,Outskirts Hotspot #4,3,13.349379,77.627302,N/A,,Bengaluru,Bengaluru,"Melekote cross, Tubugere Hobli , Doddaballapur main road"
+4,Outskirts Hotspot #5,45,13.157549,77.609934,N/A,,Bengaluru,Bengaluru,"Devanahalli | Huvinayakanahalli | Sree Sai Layout, | Tatva villa by aurea stays | Poojanahalli Rd, Kannamangala"
+5,Outskirts Hotspot #6,14,17.449004,78.237157,502032,,Hyderabad,Hyderabad,"Lehari Resorts, road Bhanur | Velmala | Mokila, bulkapur | Green Village, Mokila | Kollur"
+6,Outskirts Hotspot #7,51,18.637267,73.709567,N/A,,Pune,Pune,"Ravet | Near Kasarsai Dam, Chandkhed 410506 | Talegaon Dabhade | Shinde Vasti ,Ravet, Pune ,Maharashtra  , | Beside lane Mittal dairy"
+7,Outskirts Hotspot #8,8,17.289955,78.239919,501504,,Hyderabad,Hyderabad,Kanakamamidi | Moinabad | 501504 | Mentioned above | Near charan resorts
+8,Outskirts Hotspot #9,2,13.025115,77.029308,N/A,,Bengaluru,Bengaluru,Kunigal - 572130
+9,Outskirts Hotspot #10,2,23.165824,72.689899,N/A,,Ahmedabad,Ahmedabad,"Gift city | Ratanpur, Gujarat 382355"
+10,Outskirts Hotspot #11,2,12.959913,77.312794,N/A,,Bengaluru,Bengaluru,"Magadi Main Rd Thippagondanahalli, | Lingadheeranahalli"
+11,Outskirts Hotspot #12,6,22.937539,72.417639,N/A,,Ahmedabad,Ahmedabad,"Moti devti | Moraiya, Gujarat 382213 | Moraiya Road Moti Devti, Village, Ahmedabad | ABHISHREE ORCHARD"
+12,Outskirts Hotspot #13,6,19.194643,73.190892,N/A,,"Thane, Ulhasnagar, Mumbai","Thane, Ulhasnagar, Mumbai","Near green City Club house Ambernath East | Hira Marriage Hall | Near to Gurukul International School opposite to sai heritage, katrap, Badlapur east | Jai baba dham Netaji | Badlapur east"
+13,Outskirts Hotspot #14,3,17.25875,78.358925,N/A,,Hyderabad,Hyderabad,"Padhmavathi, Indra Reddy Colony, Shamshabad, | dream avenue gagan pahad | Shamshabad"
+14,Outskirts Hotspot #15,2,13.302257,77.533171,N/A,,Bengaluru,Bengaluru,"IVRI road, Yelahanka | Muthsandra, Doddaballapura"
+15,Outskirts Hotspot #16,3,12.965375,79.952395,N/A,,Chennai,Chennai,Mani street sarathi nagar west saidapet | Bengaluru - Chennai Hwy Nenmeli Sriperumbudur
+16,Outskirts Hotspot #17,2,28.290597,76.951513,N/A,,Gurugram,Gurugram,"Farm No 50 , Near Best Western Country Club | Tarudhan Valley Golf Resort Gurgaon, Haryana 122105"
+17,Outskirts Hotspot #18,4,12.861099,77.608128,N/A,,Bengaluru,Bengaluru,Devanahalli | Begur koppa road | Bengaluru 560076
+18,Outskirts Hotspot #19,4,12.69618,79.986591,N/A,,Chennai,Chennai,"Gokulapuram, Chengalpattu | Mahindra World City, Chengalpattu"
+19,Outskirts Hotspot #20,7,18.939311,73.044449,400702,,"Navi Mumbai, Mumbai","Navi Mumbai, Mumbai","Standard Weigh bridge | Jasai, Navi Mumbai | Manghar, Panvel | JNPT Rd, Navi Mumbai, Maharashtra 410206 | Sector - 23, Ulwe, Navi Mumbai"
+20,Outskirts Hotspot #21,8,18.986819,73.121553,N/A,,"Navi Mumbai, Mumbai","Navi Mumbai, Mumbai","New Panvel | navi mumbai | Gurudev Heights, 200, Sector 21, Kamothe, Panvel, Navi Mumbai, | Usarli Khurd, Vichumbe, Navi Mumbai | Near St Joseph school"
+21,Outskirts Hotspot #22,4,12.795395,80.024881,N/A,,Chennai,Chennai,Maraimalai Nagar
+22,Outskirts Hotspot #23,2,22.897341,75.97955,453771,,Indore,Indore,"VRG, Kshipra, Pirkaradiya"
+23,Outskirts Hotspot #24,6,17.5439,78.369692,N/A,,Hyderabad,Hyderabad,"Near orr | Dhivya Shree Shakthi Apartment Mayuri nagar miyapur | Akshaya developers, Bowrampet,500043 | Bachupally crossroads ,Mallampetroad | Mallampet, 500090"
+24,Outskirts Hotspot #25,14,13.059585,77.758495,N/A,,Bengaluru,Bengaluru,"Hoskote | Budigere cross | Bommanahalli, Bidarahalli Hobli | Doddabanahalli | Hoskote, Bengaluru, Karnataka 562114"
+25,Outskirts Hotspot #26,31,12.833348,77.723363,N/A,,Bengaluru,Bengaluru,"Marsur, Naganaikanahalli, Karnataka 562166 | Attibele-Sarjapur road, Bidderguppe, Manenahalli | Sarjapur Main Road | Marsur | Nambiar Bellezea"
+26,Outskirts Hotspot #27,8,30.63419,76.85447,N/A,,"Chandigarh, Sahibzada Ajit Singh Nagar, Zirakpur","Chandigarh, Sahibzada Ajit Singh Nagar, Zirakpur","Motia citi Zirakpur Punjab | Guru Nanak Colony Rd, Guru Nanak Colony | Sanauli Zirakpur Punjab | Maya garden ph3 vip road | Uptown Skylla"
+27,Outskirts Hotspot #28,50,12.922496,80.155688,N/A,,Chennai,Chennai,"Perunthalaivar kamarajar nagar ,2nd cross street, perungudi | city abdul kalam road pudhupakkaam | Mantri Synergy, Near Hindustan Engineering college,Tamil Nadu, 603103 | Kanathur Reddykuppam, Tamil Nadu 603112 | Mambakkam - Medavakkam Main Rd,"
+28,Outskirts Hotspot #29,2,17.577553,78.601677,N/A,,Hyderabad,Hyderabad,Shamirpet
+29,Outskirts Hotspot #30,2,18.420481,73.767436,N/A,,Pune,Pune,"Milit | Girinagar, Gorhe Bk., Maharashtra 411025"
+30,Outskirts Hotspot #31,2,26.789669,75.470984,N/A,,Jaipur,Jaipur,"Near Mahalan, Ajmer Road, Jaipur, Rajasthan - 303007 | Mahlan, Rajasthan"
+31,Outskirts Hotspot #32,2,17.677578,78.473415,N/A,,Hyderabad,Hyderabad,lingapur | Yellampet.
+32,Outskirts Hotspot #33,2,20.940838,72.932123,N/A,,Surat,Surat,"Navsari | Vijalpor, Navsari 396450"
+33,Outskirts Hotspot #34,13,12.864335,77.49012,N/A,,Bengaluru,Bengaluru,"Kengeri | 3rd Cross Rd, Kaggalipura, | Agara, Bengaluru, 562109 | Anchepalya, Kengeri | 179, Kannikanagar, Nanda Gokula Layout, Bengaluru, Ramasandra, Karnataka 560060"
+34,Outskirts Hotspot #35,4,26.90495,75.6014,302012,,Jaipur,Jaipur,Street 1 | Sinwar road | Khasra no.90 nand gav bad ke balaji road chakramsir choraha sirsi road near polofactory polo club
+35,Outskirts Hotspot #36,12,18.581517,74.008389,N/A,,Pune,Pune,"Lohegaon Road, Wagholi | Lonikand, Near Wagheshwar Temple | behind pasalkar lawns, Kesnand | Samarth colony | Kharadi"
+36,Outskirts Hotspot #37,7,18.620481,73.911674,N/A,,Pune,Pune,"Near DY Patil College | Ajmer Ali Vihar, Opposite Tata Communication Dighi | Charholi Budruk, Maharashtra 412105 | Charholi budruk | Atlantic, pride world city"
+37,Outskirts Hotspot #38,2,22.965715,76.054725,N/A,,Indore,Indore,"Rai Marg, Alankar Square, Old Town, Gomti Nagar, Dewas, Madhya Pradesh 455001"
+38,Outskirts Hotspot #39,2,22.383977,88.414395,N/A,,Kolkata,Kolkata,"Halder more, Baruipur Amtala road, Baruipur | Rajpur Sonarpur, Malancha Mahi Nagar, Rajpur Sonarpur"
+39,Outskirts Hotspot #40,2,17.286968,78.596138,N/A,,Hyderabad,Hyderabad,"Turkayamjal | Nagarjuna colony, Hasthinapuram"
+40,Outskirts Hotspot #41,5,13.083192,77.406887,N/A,,Bengaluru,Bengaluru,"Baba nagar | Arasinakunte | Nelamangala | Jyothi Nagar, Bengaluru, Nagarur"
+41,Outskirts Hotspot #42,8,21.160659,72.652016,N/A,,Surat,Surat,Pal Tp 16
+42,Outskirts Hotspot #43,7,18.418312,73.926575,412301,,Pune,Pune,"411048 | Kanifnath via Bopgav Vasti Rd, Bopgaon, | Bhivri, Maharashtra 412301 | Wadachi Wadi, Undri | Bhivari village, Tal:, Purandar"
+43,Outskirts Hotspot #44,2,28.249968,77.159852,122103,,Gurugram,Gurugram,"Karanki, Sohna | Ranika Singhola, Sohna"
+44,Outskirts Hotspot #45,2,23.099958,72.748237,N/A,,Ahmedabad,Ahmedabad,"Zak, gamdu, 382330"
+45,Outskirts Hotspot #46,4,26.77965,75.898849,N/A,,Jaipur,Jaipur,"Near goner jagatpura | Jagatpura Jaipur | Jagatpura, Jaipur, pincode-302017 | Dua Farm House, Tuwariyan Ki Dhani, Vatika, Jaichandpura"
+46,Outskirts Hotspot #47,3,22.691163,88.309848,N/A,,Kolkata,Kolkata,"Panchghara, Dankuni, West Bengal 712306 | Raghunathpur, Makhla, Basipota, West Bengal 712245 | Baranagar"
+47,Outskirts Hotspot #48,3,18.606351,74.087656,N/A,,Pune,Pune,"Burkegaon, Maharashtra"
+48,Outskirts Hotspot #49,3,12.704655,77.697858,N/A,,Bengaluru,Bengaluru,"Weaver Colony Anekal, Karnataka 562106"
+49,Outskirts Hotspot #50,2,22.771869,88.554221,N/A,,Kolkata,Kolkata,"Bira, Joypul, West Bengal | Narshipur, Jirat, West Bengal"
+50,Outskirts Hotspot #51,23,23.128725,72.495369,N/A,,Ahmedabad,Ahmedabad,"Near Dada Bhagwan Trimandir, Adalaj, Dist. Gandhinagar, 382421 | Dantali | Opposite The Aayansh, Nr. Narmada Canal, Adalaj | Supercity bhadaj | Near Vaishnodevi Circle"
+51,Outskirts Hotspot #52,2,17.331605,78.297794,N/A,,Hyderabad,Hyderabad,Moinabad
+52,Outskirts Hotspot #53,3,26.993225,75.580429,N/A,,Jaipur,Jaipur,"Kalwar | Govind Vatika, Kalwar"
+53,Outskirts Hotspot #54,3,15.561425,73.771543,N/A,,Panaji,Panaji,"1221/2 & 3, Gauvaddi, Anjuna, Goa 403509 | calangute mahpusa road"
+54,Outskirts Hotspot #55,3,23.021038,72.447606,N/A,,Ahmedabad,Ahmedabad,"Shaligram prime apartment South bopal | Manipur Saptak, Ghuma, | SHIVALIK SHARDA PARKVIEW-2, NEAR MEHAR HOMES-4, CLUB O7 ROAD, SHELA"
+55,Outskirts Hotspot #56,3,17.529899,78.529861,N/A,,Hyderabad,Hyderabad,Railway Employees Colony Phase 1 | Hyderabad | Yapral
+56,Outskirts Hotspot #57,3,30.823367,76.723298,N/A,,Chandigarh,Chandigarh,DLF Hyde park | Mullanpur | MLA Flats Mullanpur Garibdass
+57,Outskirts Hotspot #58,2,17.094438,78.253938,N/A,,Hyderabad,Hyderabad,Kottur | Near MSN Pharma
+58,Outskirts Hotspot #59,3,17.441731,78.67339,N/A,,Hyderabad,Hyderabad,Madhava reddy bridge | Annojiguda
+59,Outskirts Hotspot #60,3,17.545796,78.286716,N/A,,Hyderabad,Hyderabad,"Symphony Park Homes, Patancheruvu | Kistareddypet, Beeramguda"
+60,Outskirts Hotspot #61,6,22.594561,88.528874,N/A,,Kolkata,Kolkata,"Lake Town, Kolkata, West Bengal | nearby shikharpur, Greentech City, Vedic Village, | Uniworld city new town action area 3 | Vedic Village, Bazetaraf | Baghu, Newtown, Sikharpur"
+61,Outskirts Hotspot #62,4,26.98032,81.020502,226201,,Lucknow,Lucknow,"Palaka Uttar Pradesh | Saihara, Uttar Pradesh 225301"
+62,Outskirts Hotspot #63,2,13.028678,77.447858,N/A,,Bengaluru,Bengaluru,"Bettahalli | Sanjeevani Layout, Laaksmipura madanayakanna Halli, Nelamangala"
+63,Outskirts Hotspot #64,2,12.932711,77.738527,N/A,,Bengaluru,Bengaluru,"Varthur Road, Gunjur Village, Bangalore 560087"
+64,Outskirts Hotspot #65,2,28.843026,77.180478,N/A,,Delhi,Delhi,Near Lavanya farm
+65,Outskirts Hotspot #66,2,26.728734,81.039979,226301,,Lucknow,Lucknow,"Lucknow, Mohari Khurd"
+66,Outskirts Hotspot #67,2,27.028574,75.763707,302013,,Jaipur,Jaipur,Nindar Jaipur
+67,Outskirts Hotspot #68,3,22.704643,75.964504,N/A,,Indore,Indore,"Bicholi Mardana, Ambamoliya-Bicholi Hapsi Rd"

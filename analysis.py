@@ -19,7 +19,7 @@ for pkg in ["pandas", "scikit-learn", "folium", "geopy", "requests", "numpy"]:
         print(f"Installing {pkg}...")
         pip_install(pkg)
 
-import time, warnings, json, os, math
+import time, warnings, json, os, math, ssl
 import numpy as np
 import pandas as pd
 from sklearn.cluster import DBSCAN
@@ -29,17 +29,16 @@ from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderTimedOut
 
 warnings.filterwarnings("ignore")
+ssl._create_default_https_context = ssl._create_unverified_context
 
 OUT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # 1. LOAD DATA
 # ═══════════════════════════════════════════════════════════════════════════════
-CSV_URL = ("https://docs.google.com/spreadsheets/d/"
-           "19V2nf3Hdi2t-qhv_jrrzJeCXYMaJnYUdllm8eZX2exU"
-           "/export?format=csv&gid=86078783")
+CSV_URL = "IIT Roorkee __ COOX - Raw Data.csv"
 
-print("📥  Downloading dataset...")
+print("📥  Loading local dataset...")
 df = pd.read_csv(CSV_URL)
 print(f"   Loaded {len(df)} rows")
 
